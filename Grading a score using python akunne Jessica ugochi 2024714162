@@ -1,3 +1,4 @@
+#Grading system using if and elif
 score = int(input("Enter your score: "))
 
 if 70 <= score <= 100:
